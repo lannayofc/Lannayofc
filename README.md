@@ -1,4 +1,4 @@
-## Olá! Eu sou a Lannay 💖 <img src="https://cdn.discordapp.com/attachments/1044104944296394794/1336017318601424987/3e1d65f3929183fff3036216f3455ef4.gif?ex=67a24696&is=67a0f516&hm=4226aaecd1dddb68445d2864eb05891fb9d2e673342f85688fd333c767175eab&" width="120" align="right"/> 
+## Oie! Eu me chamo Lannay 💖 <img src="https://cdn.discordapp.com/attachments/1044104944296394794/1336017318601424987/3e1d65f3929183fff3036216f3455ef4.gif?ex=67a24696&is=67a0f516&hm=4226aaecd1dddb68445d2864eb05891fb9d2e673342f85688fd333c767175eab&" width="120" align="right"/> 
 
 ### 🚀 Minhas Estatísticas do GitHub  
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=lannayofc&show_icons=true&theme=radical)  
