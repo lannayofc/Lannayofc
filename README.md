@@ -16,8 +16,6 @@ Sou apaixonada por criar experiências incríveis para os usuários com design c
 ### 🔥 Linguagens Mais Usadas
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=lannayofc&layout=compact&theme=radical)
 
-### 🏆 Meu GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=lannayofc&theme=radical)
 
 ---
 
