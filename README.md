@@ -1,6 +1,6 @@
 ## Olá, Eu me chamo Lannay!! <img src="https://cdn.discordapp.com/attachments/1338573031018074133/1355713395206258815/1743297573817.png?ex=67f3d13d&is=67f27fbd&hm=474ab74cfa48727e4b7287b0e46b558df8e426a8d71c221d8f9001bd05ec67b1&" width="120" align="right"/> 
 
-### `💻 Desenvolvedora Front-End em constante evolução` 
+### 💻 Desenvolvedora Front-End em constante evolução 
 
 Sou apaixonada por criar experiências incríveis para os usuários com design clean e interativo. No momento, estou me aprofundando em HTML, CSS, JavaScript e React. Busco sempre melhorar minhas habilidades e explorar novas ferramentas para entregar projetos mais inovadores e com alto desempenho. 
 
