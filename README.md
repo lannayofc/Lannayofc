@@ -1,4 +1,4 @@
-## Olá, Eu me chamo Lannay!! <img src="https://cdn.discordapp.com/attachments/1338573031018074133/1355713395206258815/1743297573817.png?ex=67f3d13d&is=67f27fbd&hm=474ab74cfa48727e4b7287b0e46b558df8e426a8d71c221d8f9001bd05ec67b1&" width="120" align="right"/> 
+## Olá, Eu me chamo Lannay!! <img src="https://cdn.discordapp.com/attachments/1338340603146014722/1361054282408919070/New_Project_11_5927DDD.png?ex=67fd5c14&is=67fc0a94&hm=ba7e14ae9c8eb8a34602e133e2725980b940c285b69e7d4f7534b5f96e376fb7&" width="120" align="right"/> 
 
 ### 💻 Desenvolvedora Front-End em constante evolução 
 
